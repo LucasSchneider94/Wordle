@@ -1,0 +1,2 @@
+# Ignore lookup tables (too large to upload)
+*.pkl
